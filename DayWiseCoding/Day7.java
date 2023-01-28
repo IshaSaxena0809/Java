@@ -1,5 +1,5 @@
 package DayWiseCoding;
-
+//Get the number of month and year as input from the user and check the number of days present in that month.
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
