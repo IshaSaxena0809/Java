@@ -1,5 +1,5 @@
 package DayWiseCoding;
-
+//Get an input number from the user and check whether it is a positive or negative number.
 import java.util.Scanner;
 
 public class Day4 {
